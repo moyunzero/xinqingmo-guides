@@ -6,5 +6,5 @@ window.XINQING = {
    * 百度统计的 hm.js 后面那串字符。
    * 登录 tongji.baidu.com 添加站点后复制，留空则不加载。
    */
-  hm: "",
+  hm: "46a3e5dee48f7f4f05d6a795c90ffaa4",
 };
