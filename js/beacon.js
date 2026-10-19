@@ -12,8 +12,4 @@
     link.href = root + path;
     document.head.appendChild(link);
   }
-  if (!cfg.hm) return;
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?" + cfg.hm;
-  document.head.appendChild(hm);
 })();
